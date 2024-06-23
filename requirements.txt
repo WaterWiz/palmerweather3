@@ -1,0 +1,4 @@
+azure-functions
+requests
+office365-rest-python-client
+azure-identity
